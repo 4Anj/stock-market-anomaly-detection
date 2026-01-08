@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Anomaly Detection</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>Stock Anomaly Detection Dashboard</h1>
+
+    <div class="input-box">
+        <input type="text" id="ticker" placeholder="Enter stock symbol (e.g., MSFT)">
+        <button onclick="detectAnomalies()">Detect</button>
+    </div>
+
+    <div id="result"></div>
+    <div id="chart"></div>
+    <div id="priceChart"></div>
+    <div id="volatilityChart"></div>
+    <div id="returnsChart"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #fafafa;
+}
+
+.input-box {
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 200px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #0078ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #005fcc;
+}
+
+#chart {
+    margin-top: 30px;
+}
+#priceChart, #volatilityChart, #returnsChart {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
