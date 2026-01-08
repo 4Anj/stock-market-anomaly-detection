@@ -91,7 +91,6 @@ These values are then visualized in the dashboard.
 
 <img width="900" height="450" alt="newplot (2)" src="https://github.com/user-attachments/assets/0659758c-b413-4550-94d6-990c1a4e847b" />
 
-
 ---
 
 ## Running the Project
