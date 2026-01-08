@@ -85,6 +85,12 @@ The API returns:
 - list of ML anomaly dates  
 
 These values are then visualized in the dashboard.
+<img width="900" height="450" alt="newplot" src="https://github.com/user-attachments/assets/3d5c814d-1860-473d-8696-cbdccc272bd4" />
+
+<img width="900" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/8383eaab-38df-47c3-a589-9a3dcd31bb75" />
+
+<img width="900" height="450" alt="newplot (2)" src="https://github.com/user-attachments/assets/0659758c-b413-4550-94d6-990c1a4e847b" />
+
 
 ---
 
@@ -103,6 +109,7 @@ uvicorn app.main:app --reload
 ### 3. Open the dashboard
 
 Open with browser: app/static/index.html
+<img width="1577" height="902" alt="output" src="https://github.com/user-attachments/assets/d5d2217a-a5c4-4ae6-a45a-42fae5d156c1" />
 
 ---
 
